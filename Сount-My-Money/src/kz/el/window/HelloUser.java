@@ -9,7 +9,7 @@ public class HelloUser {
 
 	HelloUser() {
 		f = new JFrame();
-		JOptionPane.showMessageDialog(f, "Welcome, Ly");
+		JOptionPane.showMessageDialog(f, "Welcome!");
 		ReadFile.upload();
 	}
 
